@@ -4,3 +4,5 @@ DOMAIN-SUFFIX,trezor.io
 # > Ledger
 DOMAIN-SUFFIX,ledger.com
 DOMAIN-SUFFIX,ledger.app
+# > BitFinex
+DOMAIN-SUFFIX,bitfinex.com
