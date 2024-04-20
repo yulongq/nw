@@ -6,3 +6,5 @@ DOMAIN-SUFFIX,ledger.com
 DOMAIN-SUFFIX,ledger.app
 # > BitFinex
 DOMAIN-SUFFIX,bitfinex.com
+# > Kraken
+DOMAIN-SUFFIX,kraken.com
