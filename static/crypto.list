@@ -8,3 +8,9 @@ DOMAIN-SUFFIX,ledger.app
 DOMAIN-SUFFIX,bitfinex.com
 # > Kraken
 DOMAIN-SUFFIX,kraken.com
+# > OKX
+DOMAIN-SUFFIX,okx.com
+# > Binance
+DOMAIN-SUFFIX,binance.com
+# > BYBIT
+DOMAIN-SUFFIX,bybit.com
